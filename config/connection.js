@@ -23,7 +23,6 @@ const sequelize = new Sequelize(
 //       dialect: 'mysql',
 //       dialectOptions: {
 //         decimalNumbers: true,
-//       port: 3001,
 //       },
 //     });
 
